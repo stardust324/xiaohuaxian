@@ -13,3 +13,7 @@
 分辨率为：1920*1080
 
 使用视频在哔哩哔哩：【小花仙七周年活动脚本】 https://www.bilibili.com/video/BV1x3dfBLEnC/?share_source=copy_web&vd_source=6d23799e71616cda9b8beb7a0253284c
+
+## 有帮助的话可以请我喝瓶水呀
+| <img width="160" alt="IMG_20260419_161852" src="https://github.com/user-attachments/assets/6f7ed5ba-77a7-4666-9046-32fae880c640" /><br /><b>微信</b><br /> | <img width="160" alt="IMG_20260419_161941" src="https://github.com/user-attachments/assets/1f2ee104-5cbb-4d84-8e31-ab31a411646a" /><br /><b>支付宝</b><br />  | 
+| :---: | :---: |
