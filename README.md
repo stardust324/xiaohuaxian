@@ -11,3 +11,5 @@
 系统屏幕缩放为（修改后重启）：100%
 
 分辨率为：1920*1080
+
+使用视频在哔哩哔哩：【小花仙七周年活动脚本】 https://www.bilibili.com/video/BV1x3dfBLEnC/?share_source=copy_web&vd_source=6d23799e71616cda9b8beb7a0253284c
