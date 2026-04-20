@@ -3,21 +3,31 @@
 ### 后面的配置请保持一致，不是很想处理各种配置不一样的情况，主打一个能用就行
 
 ### 使用的浏览器版本为：Chrome53.0.2785.101
+
 > 下载链接：https://wwani.lanzoub.com/iu4qk3nogqxg
+
 ### 游戏网址：https://www.4399.com/flash/oldxhx.htm
 
 ### 浏览器缩放比例为：150%
-> <img width="1920" height="1080" alt="屏幕截图(5)" src="https://github.com/user-attachments/assets/44314af9-3d2c-4124-bd74-d09e348bbeaf" />
+
+> ![浏览器缩放](upload/浏览器缩放.png)
 
 ### 系统屏幕缩放为（修改后重启）：100%
 
 ### 分辨率为：1920*1080
-> <img width="1920" height="1080" alt="屏幕截图(4)" src="https://github.com/user-attachments/assets/d563cde6-793c-4528-89c8-f5466455e773" />
+
+> ![屏幕比例](upload/屏幕比例.png)
+
 ### 由于没数字签名啥的会被识别成病毒，允许存在就好了，或者暂时关闭Windows安全中心
-> <img width="1920" height="1080" alt="屏幕截图(6)" src="https://github.com/user-attachments/assets/562c490b-5fb0-426a-9578-3e1d97448c54" />
+
+> ![windows安全中心](upload/windows安全中心.png)
 
 ### 使用视频在哔哩哔哩：【小花仙七周年活动脚本】 https://www.bilibili.com/video/BV1x3dfBLEnC/?share_source=copy_web&vd_source=6d23799e71616cda9b8beb7a0253284c
 
 ## 有帮助的话可以请我喝瓶水呀
-| <img width="160" alt="IMG_20260419_161852" src="https://github.com/user-attachments/assets/6f7ed5ba-77a7-4666-9046-32fae880c640" /><br /><b>微信</b><br /> | <img width="160" alt="IMG_20260419_161941" src="https://github.com/user-attachments/assets/1f2ee104-5cbb-4d84-8e31-ab31a411646a" /><br /><b>支付宝</b><br />  | 
-| :---: | :---: |
+
+| <img width="160" alt="vx" src="upload/vx.png" /><br /><b>微信</b><br /> | <img width="160" alt="zfb" src="upload/zfb.jpg" /><br /><b>支付宝</b><br /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+|      |      |
+| :--: | :--: |
