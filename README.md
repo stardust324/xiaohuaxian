@@ -1,18 +1,20 @@
-写的比较随意，能偷懒就偷懒了，使用到插件貌似不支持相对路径，暂时使用绝对路径，所以删除该脚本时请自行删除D:\小花仙 \七周年\...
+### 写的比较随意，能偷懒就偷懒了，使用到插件貌似不支持直接读取附件，暂时使用绝对路径，所以删除该脚本时请自行删除D:\小花仙 \七周年\...
 
-后面的配置请保持一致，不是很想处理各种配置不一样的情况，主打一个能用就行
+### 后面的配置请保持一致，不是很想处理各种配置不一样的情况，主打一个能用就行
 
-使用的浏览器版本为：Chrome53.0.2785.101
+### 使用的浏览器版本为：Chrome53.0.2785.101
+> 下载链接：https://wwani.lanzoub.com/iu4qk3nogqxg
+### 游戏网址：https://www.4399.com/flash/oldxhx.htm
 
-游戏网址：https://www.4399.com/flash/oldxhx.htm
+### 浏览器缩放比例为：150%
+<img width="1920" height="1080" alt="屏幕截图(5)" src="https://github.com/user-attachments/assets/44314af9-3d2c-4124-bd74-d09e348bbeaf" />
 
-浏览器缩放比例为：150%
+### 系统屏幕缩放为（修改后重启）：100%
 
-系统屏幕缩放为（修改后重启）：100%
+### 分辨率为：1920*1080
+<img width="1920" height="1080" alt="屏幕截图(4)" src="https://github.com/user-attachments/assets/d563cde6-793c-4528-89c8-f5466455e773" />
 
-分辨率为：1920*1080
-
-使用视频在哔哩哔哩：【小花仙七周年活动脚本】 https://www.bilibili.com/video/BV1x3dfBLEnC/?share_source=copy_web&vd_source=6d23799e71616cda9b8beb7a0253284c
+### 使用视频在哔哩哔哩：【小花仙七周年活动脚本】 https://www.bilibili.com/video/BV1x3dfBLEnC/?share_source=copy_web&vd_source=6d23799e71616cda9b8beb7a0253284c
 
 ## 有帮助的话可以请我喝瓶水呀
 | <img width="160" alt="IMG_20260419_161852" src="https://github.com/user-attachments/assets/6f7ed5ba-77a7-4666-9046-32fae880c640" /><br /><b>微信</b><br /> | <img width="160" alt="IMG_20260419_161941" src="https://github.com/user-attachments/assets/1f2ee104-5cbb-4d84-8e31-ab31a411646a" /><br /><b>支付宝</b><br />  | 
